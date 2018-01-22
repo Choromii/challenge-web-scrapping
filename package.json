@@ -1,0 +1,17 @@
+{
+    "name": "challenge-web-scrapping",
+    "version": "1.0.0",
+    "description": "Participation au challenge de Bankin",
+    "scripts": {
+        "start": "phantomjs webscrap-bankin.js"
+    },
+    "dependencies": {
+      "phantomjs": "^2.1.7"
+    },
+    "author": "Ayuchi Murata",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Choromii/challenge-web-scrapping.git"
+    }
+  }
+  
